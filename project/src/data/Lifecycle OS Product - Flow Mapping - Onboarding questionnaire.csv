@@ -1,0 +1,145 @@
+Onboarding,Question type
+I. multiple choice questions,
+How far in advance do customers typically book/order?,Multi select
+Short (0-4 days): Most beauty/wellness services,
+"Medium (5-14 days): Specialized treatments, popular instructors",
+"Long (15+ days): High-demand services, seasonal bookings",
+Service frequency,Multi select
+"High Frequency (2+ times/week): Fitness classes, daily services",
+"Regular (Weekly): Yoga, personal training, group classes",
+"Monthly: Facials, massage therapy, wellness treatments",
+"Seasonal/Occasional: Special events, holiday services, annual treatments",
+Seasonal patterns,Multi select
+"High demand periods throughout the week, limited availability in certain days/times",
+Steady Demand: Consistent booking patterns,
+"Event-Driven: Holiday rushes, special occasions",
+Purchase decision timeline,Single select
+"Impulse (0-2 hours): Flash sales, walk-in availability",
+"Quick (2-24 hours): Beauty treatments, wellness services",
+"Considered (1-7 days): Membership decisions, package purchases",
+"Research-Heavy (7+ days): High-investment services, medical aesthetics",
+Preferred communication channels: Email vs SMS,Single select
+Email only,
+Email + SMS,
+"Email Dominant: Professional services, detailed information needs",future
+"SMS Dominant: Younger demographics, quick confirmations",future
+"Balanced: Mixed preferences, broad demographics",future
+"Voice/Call Preferred: Older demographics, high-touch services",future
+SMS only,future
+Primary conversion goals,Single select
+"First Booking: Initial trial, foot in the door",
+"Membership/Package: Recurring revenue, loyalty",
+Newsness of the service,Single select
+It's a brand new category,
+It's a known category with innovation to the service,
+It's a well known service,
+Upsell opportunities,Single select
+Mainly service package,
+Service and product,
+Primarily product,
+II. Open questions:,
+Typical customer journey: How do they discover you? What causes hesitation?,
+Customer lifetime value targets: What makes a customer profitable?,
+"Brand voice/positioning: Premium vs accessible, clinical vs wellness-focused",
+Competitive differentiation: What sets you apart that should be highlighted?,
+"Customer feedback: Common questions, concerns, or confusion points",
+Industry,
+,
+,
+Company Name,
+First Name,
+Last name,
+Email,
+,
+,
+III. Admin section,
+Welcome / Onboarding Flow,
+Is the flow exists,Y/N
+Number of email touchpoints,#
+Number of SMS touchpoints,#
+Time between touchpoints,# days
+Total time from flow start to finish,# days
+Exit rules set up properly,Yes/ Improvements Needed / No
+A/B testing,NO / Limited / Yes
+Open rates vs. benchmark,0.00%
+Click through rates vs. benchmark (opens to clicks),0.00%
+Click rates,0.00%
+Conversion rate vs. benchmark,0.00%
+Revenue per recipient,$
+Unsubscribe rates vs. benchmark,0.00%
+Bounce rates vs. benchmark,0.00%
+Subject line relevancy,Not relevant / Somewhat relevant / Relevant
+CTA relevancy,Not relevant / Somewhat relevant / Relevant
+Content relevancy,Not relevant / Somewhat relevant / Relevant
+Lead Nurture,
+Is the flow exists,Y/N
+Number of email touchpoints,#
+Number of SMS touchpoints,#
+Time between touchpoints,# days
+Total time from flow start to finish,# days
+Exit rules set up properly,Yes/ Improvements Needed / No
+A/B testing,NO / Limited / Yes
+Open rates vs. benchmark,0.00%
+Click through rates vs. benchmark (opens to clicks),0.00%
+Click rates,0.00%
+Conversion rate vs. benchmark,0.00%
+Revenue per recipient,$
+Unsubscribe rates vs. benchmark,0.00%
+Bounce rates vs. benchmark,0.00%
+Subject line relevancy,Not relevant / Somewhat relevant / Relevant
+CTA relevancy,Not relevant / Somewhat relevant / Relevant
+Content relevancy,Not relevant / Somewhat relevant / Relevant
+Abandoned cart,
+Is the flow exists,Y/N
+Number of email touchpoints,#
+Number of SMS touchpoints,#
+Time between touchpoints,# days
+Total time from flow start to finish,# days
+Exit rules set up properly,Yes/ Improvements Needed / No
+A/B testing,NO / Limited / Yes
+Open rates vs. benchmark,0.00%
+Click through rates vs. benchmark (opens to clicks),0.00%
+Click rates,0.00%
+Conversion rate vs. benchmark,0.00%
+Revenue per recipient,$
+Unsubscribe rates vs. benchmark,0.00%
+Bounce rates vs. benchmark,0.00%
+Subject line relevancy,Not relevant / Somewhat relevant / Relevant
+CTA relevancy,Not relevant / Somewhat relevant / Relevant
+Content relevancy,Not relevant / Somewhat relevant / Relevant
+Upsell,
+Is the flow exists,Y/N
+Number of email touchpoints,#
+Number of SMS touchpoints,#
+Time between touchpoints,# days
+Total time from flow start to finish,# days
+Exit rules set up properly,Yes/ Improvements Needed / No
+A/B testing,NO / Limited / Yes
+Open rates vs. benchmark,0.00%
+Click through rates vs. benchmark (opens to clicks),0.00%
+Click rates,0.00%
+Conversion rate vs. benchmark,0.00%
+Revenue per recipient,$
+Unsubscribe rates vs. benchmark,0.00%
+Bounce rates vs. benchmark,0.00%
+Subject line relevancy,Not relevant / Somewhat relevant / Relevant
+CTA relevancy,Not relevant / Somewhat relevant / Relevant
+Content relevancy,Not relevant / Somewhat relevant / Relevant
+Sunset,
+Is the flow exists,Y/N
+Number of email touchpoints,#
+Number of SMS touchpoints,#
+Time between touchpoints,# days
+Total time from flow start to finish,# days
+Exit rules set up properly,Yes/ Improvements Needed / No
+A/B testing,NO / Limited / Yes
+Open rates vs. benchmark,0.00%
+Click through rates vs. benchmark (opens to clicks),0.00%
+Click rates,0.00%
+Conversion rate vs. benchmark,0.00%
+Revenue per recipient,$
+Unsubscribe rates vs. benchmark,0.00%
+Bounce rates vs. benchmark,0.00%
+Subject line relevancy,Not relevant / Somewhat relevant / Relevant
+CTA relevancy,Not relevant / Somewhat relevant / Relevant
+Content relevancy,Not relevant / Somewhat relevant / Relevant

@@ -1,0 +1,40 @@
+Benchmark Type,Performance Indicator,Benchmark Timestamp,Industry Median
+Abandoned Cart Flows,Bounce Rate (Email),Q1 2025,0.78%
+Abandoned Cart Flows,Click Rate (Email),Q1 2025,4.00%
+Abandoned Cart Flows,Click Through Rate (Email),Q1 2025,10.42%
+Abandoned Cart Flows,Open Rate (Email),Q1 2025,42.48%
+Abandoned Cart Flows,Placed Order Rate (Email),Q1 2025,2.04%
+Abandoned Cart Flows,Revenue Per Recipient (Email),Q1 2025,$1.71
+Abandoned Cart Flows,Spam Complaint Rate (Email),Q1 2025,0.0001
+Abandoned Cart Flows,Unsubscribe Rate (Email),Q1 2025,0.0039
+All Browse Abandonment Flows,Bounce Rate (Email),Q1 2025,0.00212
+All Browse Abandonment Flows,Click Rate (Email),Q1 2025,0.03797
+All Browse Abandonment Flows,Click Through Rate (Email),Q1 2025,0.07708
+All Browse Abandonment Flows,Open Rate (Email),Q1 2025,0.52381
+All Browse Abandonment Flows,Placed Order Rate (Email),Q1 2025,0.00752
+All Browse Abandonment Flows,Revenue Per Recipient (Email),Q1 2025,$0.62
+All Browse Abandonment Flows,Spam Complaint Rate (Email),Q1 2025,0.0001
+All Browse Abandonment Flows,Unsubscribe Rate (Email),Q1 2025,0.00294
+All Flows,Bounce Rate (Email),Q1 2025,0.00732
+All Flows,Click Rate (Email),Q1 2025,0.03651
+All Flows,Click Through Rate (Email),Q1 2025,0.08594
+All Flows,Open Rate (Email),Q1 2025,0.45961
+All Flows,Placed Order Rate (Email),Q1 2025,0.01124
+All Flows,Revenue Per Recipient (Email),Q1 2025,$0.95
+All Flows,Spam Complaint Rate (Email),Q1 2025,0.0001
+All Flows,Unsubscribe Rate (Email),Q1 2025,0.00576
+Sunset Flow,Bounce Rate (Email),Q1 2025,0.00367
+Sunset Flow,Click Rate (Email),Q1 2025,0.0058
+Sunset Flow,Click Through Rate (Email),Q1 2025,0.0464
+Sunset Flow,Open Rate (Email),Q1 2025,0.125
+Sunset Flow,Revenue Per Recipient (Email),Q1 2025,$0.02
+Sunset Flow,Spam Complaint Rate (Email),Q1 2025,0.0001
+Sunset Flow,Unsubscribe Rate (Email),Q1 2025,0.00467
+Onboarding Flows,Bounce Rate (Email),Q1 2025,0.00731
+Onboarding Flows,Click Rate (Email),Q1 2025,0.04325
+Onboarding Flows,Click Through Rate (Email),Q1 2025,0.09788
+Onboarding Flows,Open Rate (Email),Q1 2025,0.48214
+Onboarding Flows,Placed Order Rate (Email),Q1 2025,0.01769
+Onboarding Flows,Revenue Per Recipient (Email),Q1 2025,$1.50
+Onboarding Flows,Spam Complaint Rate (Email),Q1 2025,0.0001
+Onboarding Flows,Unsubscribe Rate (Email),Q1 2025,0.00786

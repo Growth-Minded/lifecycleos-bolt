@@ -1,0 +1,53 @@
+Benchmark Type,Performance Indicator,Month,"Industry Median (Ecommerce, Health & Beauty, Fitness & Wellness)"
+All Abandoned Cart Flows,Bounce Rate (Email),Total,0.78%
+All Abandoned Cart Flows,Click Rate (Email),Total,4.00%
+All Abandoned Cart Flows,Click Through Rate (Email),Total,10.42%
+All Abandoned Cart Flows,Open Rate (Email),Total,42.48%
+All Abandoned Cart Flows,Placed Order Rate (Email),Total,2.04%
+All Abandoned Cart Flows,Revenue Per Recipient (Email),Total,$1.71
+All Abandoned Cart Flows,Spam Complaint Rate (Email),Total,0
+All Abandoned Cart Flows,Unsubscribe Rate (Email),Total,0.0039
+All Browse Abandonment Flows,Bounce Rate (Email),Total,0.00212
+All Browse Abandonment Flows,Click Rate (Email),Total,0.03797
+All Browse Abandonment Flows,Click Through Rate (Email),Total,0.07708
+All Browse Abandonment Flows,Open Rate (Email),Total,0.52381
+All Browse Abandonment Flows,Placed Order Rate (Email),Total,0.00752
+All Browse Abandonment Flows,Revenue Per Recipient (Email),Total,$0.62
+All Browse Abandonment Flows,Spam Complaint Rate (Email),Total,0
+All Browse Abandonment Flows,Unsubscribe Rate (Email),Total,0.00294
+All Flows,Bounce Rate (Email),Total,0.00732
+All Flows,Click Rate (Email),Total,0.03651
+All Flows,Click Through Rate (Email),Total,0.08594
+All Flows,Open Rate (Email),Total,0.45961
+All Flows,Placed Order Rate (Email),Total,0.01124
+All Flows,Revenue Per Recipient (Email),Total,$0.95
+All Flows,Spam Complaint Rate (Email),Total,0
+All Flows,Unsubscribe Rate (Email),Total,0.00576
+All Thank You Flows,Bounce Rate (Email),Total,0.00353
+All Thank You Flows,Click Rate (Email),Total,0.02481
+All Thank You Flows,Click Through Rate (Email),Total,0.04917
+All Thank You Flows,Open Rate (Email),Total,0.54783
+All Thank You Flows,Placed Order Rate (Email),Total,0.00242
+All Thank You Flows,Revenue Per Recipient (Email),Total,$0.13
+All Thank You Flows,Spam Complaint Rate (Email),Total,0
+All Thank You Flows,Unsubscribe Rate (Email),Total,0.00362
+All Welcome Series Flows,Bounce Rate (Email),Total,0.00731
+All Welcome Series Flows,Click Rate (Email),Total,0.04325
+All Welcome Series Flows,Click Through Rate (Email),Total,0.09788
+All Welcome Series Flows,Open Rate (Email),Total,0.48214
+All Welcome Series Flows,Placed Order Rate (Email),Total,0.01769
+All Welcome Series Flows,Revenue Per Recipient (Email),Total,$1.50
+All Welcome Series Flows,Spam Complaint Rate (Email),Total,0
+All Welcome Series Flows,Unsubscribe Rate (Email),Total,0.00786
+Business Performance,% of Orders Returned,Total,0.00713
+Business Performance,Average Cart Size,Total,2.01783
+Business Performance,Average Order Count,Total,1.49842
+Business Performance,Average Order Value,Total,$66.00
+Email Campaign Deliverability Performance,Bounce Rate (Email),Total,0.00544
+Email Campaign Deliverability Performance,Spam Complaint Rate (Email),Total,0.00012
+Email Campaign Deliverability Performance,Unsubscribe Rate (Email),Total,0.00318
+Email Campaign Marketing Performance,Click Rate (Email),Total,0.00786
+Email Campaign Marketing Performance,Click Through Rate (Email),Total,0.02115
+Email Campaign Marketing Performance,Open Rate (Email),Total,0.41437
+Email Campaign Marketing Performance,Placed Order Rate (Email),Total,0.00095
+Email Campaign Marketing Performance,Revenue Per Recipient (Email),Total,$0.09
